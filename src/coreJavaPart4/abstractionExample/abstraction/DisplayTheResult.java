@@ -1,4 +1,4 @@
-package CoreJavaPart4.abstraction;
+package coreJavaPart4.abstractionExample.abstraction;
 
 public class DisplayTheResult extends Language {
     public static void main(String[] args) {

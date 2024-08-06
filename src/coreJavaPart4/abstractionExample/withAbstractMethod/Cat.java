@@ -1,4 +1,4 @@
-package CoreJavaPart4.withAbstractMethod;
+package coreJavaPart4.abstractionExample.withAbstractMethod;
 
 public class Cat extends Animal{
     public void makeSound(){

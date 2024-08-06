@@ -1,4 +1,4 @@
-package CoreJavaPart4.abstraction;
+package coreJavaPart4.abstractionExample.abstraction;
 
 public abstract class Language {
     //method of the abstract class
